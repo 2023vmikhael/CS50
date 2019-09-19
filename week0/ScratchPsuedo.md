@@ -1,7 +1,7 @@
-Title: STARFISH SPRITE
+<br> Title: STARFISH SPRITE <br>
 
-<br>When green flag is clicked;
-	Set size to [70]<br>
+When green flag is clicked;
+	Set size to [70]
 
 When [space key] clicked;
 	Wait [1.5] seconds;
@@ -57,7 +57,7 @@ When green flag is clicked;
 	If (not [touching shark] then;
 	Wait 1 [second] 
 
-Title: SHARK SPRITE <br>
+<br> Title: SHARK SPRITE <br>
 
 When green flag is clicked;
 	Set size to [47]%
@@ -129,7 +129,7 @@ Switch backdrop to [Light];
 Hide;
 Maximum score [10]
 
-Title: BACKDROP CODING <br>
+<br> Title: BACKDROP CODING <br>
 
 When green flag is clicked;
 	Switch backdrop to [start game] and wait;
