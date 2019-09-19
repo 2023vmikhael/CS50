@@ -1,7 +1,7 @@
 Title: STARFISH SPRITE
 
-When green flag is clicked;
-	Set size to [70]
+<br>When green flag is clicked;
+	Set size to [70]<br>
 
 When [space key] clicked;
 	Wait [1.5] seconds;
