@@ -45,3 +45,64 @@ if (x<y)
       printf("x is not less than y\n);
       
       {, } are reffered to as "curly brace"
+
+if (x<y) 
+{
+  printf("x is less than y\n);
+  }
+  else if (x>y)
+  {
+    printf("x is greater than y\n);
+    }
+  else if (x==y)
+  {
+    printf("x is equal to y\n);
+    }
+    
+    Two equal signs creates patterns of symbols to represent equality;
+  
+  C uses the word "while"
+  
+  Example: while
+  {
+    printf("hello, world\n");
+    }
+  
+  When a forever loop is needed, you need to use the word "while" because in C it is less directly translated;
+  
+  In most cases, spaces between words in code don't really matter, but some cases do require spaces;
+  
+  Example: while (true)
+  {
+    printf("hello, world\n");
+    }
+    
+    Languages like C don't offer the "repeat [insert number] time" newer languages like Scratch do;
+  
+  How the repeat is used in C;
+  
+  for (         )
+  {
+    printf("hello, world\n");
+    }
+    
+    Computers start counting from 0, unlike humans, because it's binary;
+    
+  You can't have spaces in names of functions in C, so instead of spaces humans decided to use underscores;
+  
+  Example of asking a question while coding:
+  
+  get_string("What's your name?\n");
+  
+  Example of an answer;
+  
+  answer=get_string("What's your name\n");
+  
+  Variables are involved a lot on a script;
+  
+  You can't use the same variable twice because computers can't be told what to do more than once;
+  
+  
+  
+  
+  
