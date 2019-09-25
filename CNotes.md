@@ -102,7 +102,14 @@ if (x<y)
   
   You can't use the same variable twice because computers can't be told what to do more than once;
   
+  Directories= name for folder
   
+  RMDIR= Remove Directory
   
+  RM= Remove
   
-  
+MV= move
+
+MKDIR= make directory (new folder)
+
+CD= change directory
