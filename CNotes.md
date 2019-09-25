@@ -110,6 +110,28 @@ if (x<y)
   
 MV= move
 
-MKDIR= make directory (new folder)
+MKDIR= make directory (new folder);
 
-CD= change directory
+CD= change directory;
+
+{
+  printf("hello, world\n");
+  }
+  
+  Source Code (C, Java, C++, Python,ect);
+  
+  Machine Code= binary (0s and 1s);
+  
+  Complier= the input of the source code, the putput of the machine code;
+  
+  Clang= messages that are blinking, using a dollar sign ($); 
+  
+  Linux= CS system like Windows and Mac (free operating system);
+  
+  $ clang.hello.c;
+  $ ./a.out;
+  
+  This runs the a.out^^;
+
+Command line environment= fancy way of saying comands (tells the computer how to behave);
+
