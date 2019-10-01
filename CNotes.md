@@ -135,3 +135,22 @@ CD= change directory;
 
 Command line environment= fancy way of saying comands (tells the computer how to behave);
 
+errors usually occur during IDE;
+
+"clear then enter", clears the whole script;
+
+use a percentage (%) to tell the program that the letter in front of it is a integer and not a word;
+
+"./" runs the program;
+
+interger: [insert number];
+
+"#include" includes the command you give in the coding;
+
+variables "x and y" are used in C;
+
+an integar has no decimal point;
+
+"%f" cuts of the decimal places;
+
+
