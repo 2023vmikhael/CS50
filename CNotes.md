@@ -153,4 +153,10 @@ an integar has no decimal point;
 
 "%f" cuts of the decimal places;
 
+Adding a double slash(//) on top of a line of code is a comment;
+
+Double lines mean "or" || (c code for or);
+
+An explanation point (!) means not equal to in C;
+
 
