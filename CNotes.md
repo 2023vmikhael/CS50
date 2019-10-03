@@ -159,4 +159,21 @@ Double lines mean "or" || (c code for or);
 
 An explanation point (!) means not equal to in C;
 
+copy/paste is bad in C;
+
+Writing a for loop- for(counter; number of times you go through the loop; increment);
+
+using two voids makes the computer do exactly as you say;
+
+output(function name)input-example: in(main)void;
+
+Do-while loop, ensure the loop;
+
+command is executed at least 1 time;
+
+RETURN command to give something back to user;
+
+DECLARE=Create
+
+Scope-variables, exits, inreturnable, not outside of the curley braces({});
 
