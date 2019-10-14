@@ -1,0 +1,11 @@
+1. Setting up submit5
+2. Chapter 1/ Hello
+-help50
+-style50
+-check50
+-submit50
+3. Workspace sharing
+#Include <stdio.h>
+int main (void)
+curley brace {}
+printf("hello, world");
